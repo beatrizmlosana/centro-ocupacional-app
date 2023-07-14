@@ -5,3 +5,4 @@ Aplicación cuya finalidad es mejorar la comunicación entre familiares y profes
   -Chat (intercambio de mensajes entre el usuario y el profesional)
   -Tablón de anuncios (se podrá consultar las actividades que se vayan a realizar fuera del centro)
   -Perfil de usuario (el usuario podrá editar su perfil)
+![splash3](https://github.com/beatrizmlosana/centro-ocupacional-app/assets/136492250/d74644c5-dcc7-4b40-b8c9-57e05f5bf783)
